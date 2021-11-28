@@ -1,5 +1,4 @@
 echo "Witaj w grze kółko i krzyżyk"
-echo "Aby "
 
 BOARD=("0" "0" "0" "0" "0" "0" "0" "0" "0")
 END_GAME=0
